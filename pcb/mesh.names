@@ -1,0 +1,9 @@
+! ----- names for bodies -----
+$ body1 = 1
+$ GrMesh_1_Volumes = 2
+$ GrMesh_2_Volumes = 3
+$ GrMesh_3_Volumes = 4
+! ----- names for boundaries -----
+$ GrMesh_1_Faces = 1
+$ GrMesh_2_Faces = 2
+$ GrMesh_3_Faces = 3

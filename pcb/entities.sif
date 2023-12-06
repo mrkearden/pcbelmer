@@ -1,0 +1,30 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = body1
+End
+
+Body 2
+  Name = GrMesh_1_Volumes
+End
+
+Body 3
+  Name = GrMesh_2_Volumes
+End
+
+Body 4
+  Name = GrMesh_3_Volumes
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = GrMesh_1_Faces
+End
+
+Boundary Condition 2
+  Name = GrMesh_2_Faces
+End
+
+Boundary Condition 3
+  Name = GrMesh_3_Faces
+End
+
